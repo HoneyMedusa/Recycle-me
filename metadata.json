@@ -1,0 +1,9 @@
+{
+  "name": "Recycle Me",
+  "description": "A vibrant, AI-powered recycling marketplace and environmental reporting platform for South Africa. Scan waste for cash, report hazards, and find nearby collection points.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
